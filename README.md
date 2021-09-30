@@ -10,3 +10,10 @@ This is README.
 1. monday
 1. tuesday
 1. wednesday
+
+## Part 3
+1. january
+1. february
+1. march
+1. april
+1. may
